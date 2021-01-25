@@ -27,7 +27,7 @@ Decrypt.
 
 Extract tar files.
 
-  % tar xv $TARNAME
+  % tar xvf $TARNAME
 
 Import and trust GPG secret key.
 
