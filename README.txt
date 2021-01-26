@@ -1,4 +1,4 @@
-foobar.tar.asc is an encypted tar archive that contains a GPG secret key and
+foobar.tar.asc is an encyrpted tar archive that contains a GPG secret key and
 SSH public and private keys. These can assist in recovering passwords when
 all else is failing.
 
