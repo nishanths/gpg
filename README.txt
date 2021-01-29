@@ -44,7 +44,7 @@ keys.)
 Now clone the private passwords repository (the SSH keys should make this
 possible to do).
 
-  % git clone git@github.com:nishanths/super-duper-meme.git $HOME/.password-store
+  % git clone git@github.com:nishanths/passwords.git $HOME/.password-store
 
 Retrive passwords (the GPG key and GPG key passphrase should make this
 possible to do).
